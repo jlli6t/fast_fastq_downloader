@@ -1,0 +1,1 @@
+../../../4.bin/FastQC/bin/stat_fastqc_result-v1.0.py
